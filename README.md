@@ -1,10 +1,10 @@
 # openai_codex
 A web application that allow user to talk with Codex Model of OpenAI
 
-##Description
+## Description
 The application generates end-point API on server side which creates a request to OpenAI API process the response and retrieve the answer to the front-end.
 
-##Usage
+## Usage
 
 Use on client folder
 ```
